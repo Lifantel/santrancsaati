@@ -2,7 +2,7 @@
 > [!WARNING]
 > Bu proje ihtiyaçlarım doğrultusunda yapay zekaya yazdırdığım bir proje her şeyin çalıştığına tam garanti veremem.
 
-# santrancsaat
+# santrancsaati
 
 Terminalde çalışan, büyük ASCII rakamlarla süre gösteren satranç saati.
 C ile yazıldı, harici bağımlılığı yok (sadece POSIX/libc).
