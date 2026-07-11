@@ -1,6 +1,6 @@
 
 > [!WARNING]
-> Bu proje ihtiyaçlarım doğrultusunda yapay zekaya yazdırdığım bir proje her şeyin çalıştığına tam garanti veremem!!!
+> Bu proje ihtiyaçlarım doğrultusunda yapay zekaya yazdırdığım bir proje her şeyin çalıştığına tam garanti veremem.
 
 # santrancsaat
 
